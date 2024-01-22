@@ -1,0 +1,11 @@
+[connection]
+sapgui = C:\Program Files (x86)\SAP\FrontEnd\SAPgui\
+system = APS
+language = ES
+client = 800
+
+[window]
+sap_window = SAP Easy Access
+
+[time]
+time.sleep = 1
